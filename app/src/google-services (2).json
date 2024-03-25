@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567352766908",
+    "project_id": "styleguru2-ea1c4",
+    "storage_bucket": "styleguru2-ea1c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567352766908:android:8e39274841740e825e3bb9",
+        "android_client_info": {
+          "package_name": "com.example.kelineyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvcA0Qyp2J1qynmC0ECeipJ8F7wktULHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
